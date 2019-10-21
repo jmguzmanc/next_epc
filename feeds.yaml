@@ -1,0 +1,7 @@
+---
+feeds:
+  images:
+    nextepc-spgwmme-base:
+      source: http://osm-download.etsi.org/ftp/images/vnf-onboarding-tf/nextepc-spgwmme-base.qcow2
+    nextepc-hss-base:
+      source: http://osm-download.etsi.org/ftp/images/vnf-onboarding-tf/nextepc-hss-base.qcow2  
